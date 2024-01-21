@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636600687252",
+    "project_id": "flutter-test-77b5d",
+    "storage_bucket": "flutter-test-77b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636600687252:android:7184949832f2d52e533281",
+        "android_client_info": {
+          "package_name": "com.julioap.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0JPkjmOo7IpPGYl2s91BIu1urp1KEbXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
