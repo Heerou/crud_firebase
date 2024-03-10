@@ -13,6 +13,10 @@ Future<List> getPeople() async {
   });
 
   //await Future.delayed(const Duration(seconds: 5));
-
   return people;
+}
+
+//funcion guardar en bd
+Future<void> addPeople(String name) async {
+  await db.collection("people").add({"name": name});
 }
